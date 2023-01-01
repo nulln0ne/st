@@ -5,9 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "terminus:size=11:antialias=true:autohint=true";
+static char *font = "iosevka:size=11:antialias=true:autohint=true";
 static char *font2[] = { "AppleColorEmoji:pixelsize=11:antialias=true:autohint=true" };
-static int borderpx = 2;
+static int borderpx = 1;
 
 /*
  * What program is execed by st depends of these precedence rules:
