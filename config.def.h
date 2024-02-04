@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "iosevka:size=11:antialias=true:autohint=true";
+static char *font = "iosevka nerd font:size=12:antialias=true:autohint=true";
 static char *font2[] = { "AppleColorEmoji:pixelsize=11:antialias=true:autohint=true" };
 static int borderpx = 1;
 
